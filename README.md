@@ -1,1 +1,2 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Purrre)](https://github.com/ryo-ma/github-profile-trophy)
+  <img align="center" alt="purrre" width="400" src="[add your link 
+  here](https://s12.gifyu.com/images/SVy8L.gif)">
