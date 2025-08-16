@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=purrre&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true">
-  <img height="150px" src="https://github-readme-activity-graph.vercel.app/graph?username=purrre&theme=midnight-purple&hide_border=true">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=purrre&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true">
+  <img height="130px" src="https://github-readme-activity-graph.vercel.app/graph?username=purrre&theme=midnight-purple&hide_border=true">
 </div>
 
 <h3 align="left">🛠 Skills & Tools:</h3>
@@ -31,6 +31,6 @@
 
 <h3 align="left">🌐 Contact:</h3>
 <p align="left">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com/purezeroh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/527172619514937354"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
