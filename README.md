@@ -26,7 +26,8 @@
 
 <h3 align="left">🔥 Projects & Interests:</h3>
 <p>
-  Python & Lua scripting, Discord bot development, API projects, AI experiments, fullstack web development, and automation
+  Python & Lua scripting, Discord bot development, API projects, AI experiments, fullstack web development, and simple automation.
+  I don't make a lot of public projects here on GitHub, but I'm trying to do more!
 </p>
 
 <h3 align="left">🌐 Contact:</h3>
