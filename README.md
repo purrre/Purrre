@@ -21,7 +21,7 @@
 
 <h3 align="left">📊 Languages:</h3>
 <div align="left">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrre&layout=compact&theme=midnight-purple&hide=jupyter%20notebook">
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrre&theme=tokyonight"/>
 </div>
 
 <h3 align="left">🔥 Projects & Interests:</h3>
