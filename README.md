@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Purrre!
+## 👋 Hello, I'm Purrre, or just Pure!
 
 <div align="center" style="margin: 20px 0;">
   <img width="400" src="https://s12.gifyu.com/images/SVy8L.gif">
