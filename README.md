@@ -1,5 +1,3 @@
-## 👋 Hello, I'm Pure.
-
 <div align="center" style="margin: 20px 0;">
   <img width="400" src="https://s12.gifyu.com/images/SVy8L.gif">
 </div>
@@ -9,24 +7,24 @@
   <img height="130px" src="https://github-readme-activity-graph.vercel.app/graph?username=purrre&theme=midnight-purple&hide_border=true">
 </div>
 
-<h3 align="left">🛠 Skills & Tools:</h3>
+<h3 align="left">> Skills & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,lua,js,nodejs,html,css,mongodb,mysql,github,discord,pycharm,vscode,git,docker,ai&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,lua,js,nodejs,html,css,mongodb,mysql,postgres,sqlite,discord,pycharm,vscode,git,docker,linux&perline=8" />
 </p>
 
-<h3 align="left">📚 Currently Learning:</h3>
+<h3 align="left">> Currently Learning:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,go,html,css,ai&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,aiscript&perline=6" />
 </p>
 
-<h3 align="left">📊 Languages:</h3>
+<h3 align="left">> Languages:</h3>
 <div align="left">
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrre&theme=tokyonight"/>
 </div>
 
-<h3 align="left">🔥 Projects & Interests:</h3>
+<h3 align="left">> Projects & Interests:</h3>
 <p>
-  Python & Lua scripting, Discord bot development, API projects, AI experiments, fullstack web development, and simple automation.
+  Python & Lua scripting & modding, Discord bot development, API projects, learning fullstack web development, AI projects, and simple automation.
   I don't make a lot of public projects here on GitHub, but I'm trying to do more!
 </p>
 
