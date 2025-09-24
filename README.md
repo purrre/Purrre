@@ -19,7 +19,7 @@
 
 <h3 align="left">> Languages:</h3>
 <div align="left">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrre&theme=tokyonight"/>
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrre&layout=pie&hide_title=true&theme=tokyonight"/>
 </div>
 
 <h3 align="left">> Projects & Interests:</h3>
